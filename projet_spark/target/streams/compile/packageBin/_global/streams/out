@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\a853183\Documents\PROJETSPARK\EXAMENGROUPE2\target\scala-2.11\examengroupe2_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\a853183\Documents\PROJETSPARK\EXAMENGROUPE2\target\scala-2.11\classes\sn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn\databeez[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\a853183\Documents\PROJETSPARK\EXAMENGROUPE2\target\scala-2.11\classes\sn\databeez[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn\databeez\atos[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\a853183\Documents\PROJETSPARK\EXAMENGROUPE2\target\scala-2.11\classes\sn\databeez\atos[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn\databeez\atos\Commons[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\a853183\Documents\PROJETSPARK\EXAMENGROUPE2\target\scala-2.11\classes\sn\databeez\atos\Commons[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn\databeez\atos\Commons\Constant$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\a853183\Documents\PROJETSPARK\EXAMENGROUPE2\target\scala-2.11\classes\sn\databeez\atos\Commons\Constant$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn\databeez\atos\Commons\Constant.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\a853183\Documents\PROJETSPARK\EXAMENGROUPE2\target\scala-2.11\classes\sn\databeez\atos\Commons\Constant.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn\databeez\atos\Commons\Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\a853183\Documents\PROJETSPARK\EXAMENGROUPE2\target\scala-2.11\classes\sn\databeez\atos\Commons\Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn\databeez\atos\Commons\Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\a853183\Documents\PROJETSPARK\EXAMENGROUPE2\target\scala-2.11\classes\sn\databeez\atos\Commons\Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn\databeez\atos\Groupe2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\a853183\Documents\PROJETSPARK\EXAMENGROUPE2\target\scala-2.11\classes\sn\databeez\atos\Groupe2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn\databeez\atos\Groupe2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\a853183\Documents\PROJETSPARK\EXAMENGROUPE2\target\scala-2.11\classes\sn\databeez\atos\Groupe2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	variant-covid.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\a853183\Documents\PROJETSPARK\EXAMENGROUPE2\target\scala-2.11\classes\variant-covid.json[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

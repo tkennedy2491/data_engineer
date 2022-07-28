@@ -1,0 +1,17 @@
+{
+    "FLUX_METADATA": {
+      "FLUX_PAYS": "OSN",
+      "FLUX_NAME": "COVID_VARIANT",
+      "HDFS_SOURCE_PATH": "hdfs://m11896.contaboserver.net:8020/home/databeez_atos/Zones/Transient/groupe2",
+      "FILE_DELIMITER": ",",
+      "FLUX_COLUMNS": "location,date,variant,num_sequences,perc_sequences,num_sequences_total"
+    },
+    "DATABASE_METADATA": {
+      "DATABASE_NAME": "covid_atos_promo1",
+      "TABLE_NAME": "Groupe2",
+      "TABLE_PATH": "/home/databeez_atos/Zones/Trusted/groupe2",
+      "SAVE_DATABASE_FORMAT": "parquet",
+      "SAVE_DATABASE_MODE": "overwrite"
+    }
+  }
+  
